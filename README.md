@@ -1,8 +1,11 @@
 ### Hi there 👋
 I'm Jean
 
-🔭 I’m currently working with Enterprise Content Management application
-🌱 I’m currently learning spring framework.
+
+I'm a software engineer
+
+- 🔭 I’m currently working with Enterprise Content Management application
+- 🌱 I’m currently learning spring framework.
 
 <!--
 **jeanschuchardt/jeanschuchardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
