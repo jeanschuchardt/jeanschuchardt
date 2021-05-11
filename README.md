@@ -3,8 +3,9 @@ I'm Jean
 
 I'm a software engineer
 
-- 🔭 I’m currently working with Enterprise Content Management application
-- 🌱 I have back to the basics and I'm refreshing  my mind with design patterns and spring framework concepts.
+- 🔭 I’m currently working with microservices using spring-boot in java 
+- 🌱 I have back to the basics and I'm refreshing my mind with design patterns and spring framework concepts.
+- 👯 I’m looking to collaborate on stack overflow, and here on github.
 
 <!--
 **jeanschuchardt/jeanschuchardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
