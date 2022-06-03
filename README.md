@@ -5,7 +5,6 @@ hi, i'm [Jean Schuchardt](https://www.linkedin.com/in/jeanschuchardt/), full sta
 😄 Pronouns: He/Him
 
 - 🔭 I’m currently working with microservices using spring-boot on java 
-- I`m
 - 🌱 I have back to the basics and I'm refreshing my mind with design patterns and spring framework concepts.
 - 👯 I’m looking to collaborate on stack overflow, and here on github.
 
