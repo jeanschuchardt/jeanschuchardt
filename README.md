@@ -1,9 +1,8 @@
 
-
 ### Hi there 👋
-I'm Jean 😄 Pronouns: He/Him
 
-I'm a software engineer
+hi, i'm [Jean Schuchardt](https://www.linkedin.com/in/jeanschuchardt/), full stack web developer and a freelance software engineer from Brazil. 
+😄 Pronouns: He/Him
 
 - 🔭 I’m currently working with microservices using spring-boot on java 
 - I`m
