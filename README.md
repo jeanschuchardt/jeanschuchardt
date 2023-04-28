@@ -1,14 +1,14 @@
 
 ### Hi there 👋
 
-hi, I'm [Jean Schuchardt](https://www.linkedin.com/in/jeanschuchardt/), full stack web developer and a freelance software engineer from Brazil. 
+Hi, I'm [Jean Schuchardt](https://www.linkedin.com/in/jeanschuchardt/), a remote full-stack web developer and a freelance software engineer from Brazil. 
 
-- 🔭 I’m currently working on graphql project with java/spring-boot app
+- 🔭 I’m currently working on a graphql project with the java/spring-boot app
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on leetcode question
 - 🤔 I’m looking for help with system design and design patterns 
-- 💬 Ask me about any thing I'm allways open to talk
-- 📫 How to reach me: at linkedind https://www.linkedin.com/in/jeanschuchardt/
+- 💬 Ask me about anything I'm always open to talk
+- 📫 How to reach me: at LinkedIn https://www.linkedin.com/in/jeanschuchardt/
 - 😄 Pronouns: He/Him
 
 
