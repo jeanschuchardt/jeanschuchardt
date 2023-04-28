@@ -1,12 +1,16 @@
 
 ### Hi there 👋
 
-hi, i'm [Jean Schuchardt](https://www.linkedin.com/in/jeanschuchardt/), full stack web developer and a freelance software engineer from Brazil. 
-😄 Pronouns: He/Him
+hi, I'm [Jean Schuchardt](https://www.linkedin.com/in/jeanschuchardt/), full stack web developer and a freelance software engineer from Brazil. 
 
-- 🔭 I’m currently working with microservices using spring-boot on java 
-- 🌱 I have back to the basics and I'm refreshing my mind with design patterns and spring framework concepts.
-- 👯 I’m looking to collaborate on stack overflow, and here on github.
+- 🔭 I’m currently working on graphql project with java/spring-boot app
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on leetcode question
+- 🤔 I’m looking for help with system design and design patterns 
+- 💬 Ask me about any thing I'm allways open to talk
+- 📫 How to reach me: at linkedind https://www.linkedin.com/in/jeanschuchardt/
+- 😄 Pronouns: He/Him
+
 
 
 <!--
