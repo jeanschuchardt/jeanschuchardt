@@ -1,31 +1,35 @@
+# 👋 Hi, I'm Jean Schuchardt
 
-### Hi there 👋
+I'm a **Backend Developer** specializing in **Java 17**, **Spring Boot 3**, **Kafka**, and **API development**.  
+Currently exploring **System Design**, **Cloud Architecture**, and improving my skills in **React**.
 
-Hi, I'm [Jean Schuchardt](https://www.linkedin.com/in/jeanschuchardt/), a remote full-stack web developer and a freelance software engineer from Brazil. 
+---
 
-- 🔭 I’m currently working on a graphql project with the java/spring-boot app
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on leetcode question
-- 🤔 I’m looking for help with system design and design patterns 
-- 💬 Ask me about anything I'm always open to talk
-- 📫 How to reach me: at LinkedIn https://www.linkedin.com/in/jeanschuchardt/
-- 😄 Pronouns: He/Him
+## 🛠️ Tech Stack
+- **Languages:** Java, SQL, JavaScript
+- **Frameworks:** Spring Boot, Spring Cloud, JPA/Hibernate
+- **Databases:** Oracle, PostgreSQL, MongoDB
+- **Tools:** Kafka, Redis, Docker, Kubernetes, Jenkins
+- **Frontend (learning):** React.js, Next.js
 
+---
 
+## 🚀 Projects
+- [**Project Kronos**](link_para_repo) — Scheduling platform for therapists with Spring Boot backend
+- [**Tax Calculator**](link_para_repo) — Capital gains tax calculator for Brazilian tax rules
+- [**LeetCode Solutions**](link_para_repo) — Collection of solved coding challenges (Java)
 
-<!--
-**jeanschuchardt/jeanschuchardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 Current Focus
+- Deepening knowledge in **System Design** and **Software Architecture**
+- Practicing **Design Patterns** and clean code
+- Learning **frontend integration** with React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 📫 How to reach me
+- LinkedIn: [jeanschuchardt](https://www.linkedin.com/in/jbdeveloper/)
+- Email: jeanschuchardt@hotmail.com
 
+---
